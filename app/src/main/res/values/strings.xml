@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Iterator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="text">Albun de Fotos. Pulsa los botones para verlas</string>
+    <string name="Anterior">Anterior</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="Nada">Sin Imagen</string>
+    <string name="img1">Galeria</string>
+    <string name="Clonar">Clonar</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
